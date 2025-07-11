@@ -1,0 +1,49 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment
+venv/
+.env
+.env.*
+
+# VS Code project settings
+.vscode/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local database & vector store
+chroma_db/
+*.db
+
+# Data and outputs
+*.pdf
+*.csv
+*.xlsx
+
+# Docker artifacts
+*.log
+
+# Secrets
+*.env
+.env.example
+
+# Streamlit and app artifacts
+.streamlit/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test outputs
+*.pytest_cache/
+coverage/
+
+# Jupyter kernel files
+*.ipynb_kernel/
+
+# Project-specific artifacts
+ai_agents_for_finance_market_research/report_outputs/
