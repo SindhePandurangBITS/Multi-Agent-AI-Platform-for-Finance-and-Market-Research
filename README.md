@@ -44,7 +44,7 @@ My goal in this project is to accelerate and enrich financial/market research, a
 ---
 ## 🏛⚛ Complete Tech Stack
 
-![Tech Stack](tech_stack.png.png)
+![Tech Stack](tech_stack.png)
 
 ---
 
