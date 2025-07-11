@@ -42,6 +42,11 @@ My goal in this project is to accelerate and enrich financial/market research, a
 * **Citation Quality & Traceability (Custom/Chain Metric):** Do responses provide clear, verifiable source links or references? Scored by presence and completeness of citations.
 
 ---
+## 🏛⚛ Complete Tech Stack
+
+![Tech Stack](tech_stack.png.png)
+
+---
 
 ## 🏆 Project Goals
 
