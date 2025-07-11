@@ -1,8 +1,7 @@
-# Customer Segmentation via Unsupervised Clustering
+# Multi-Agent-AI-Platform-for-Finance-and-Market-Research
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-
 ---
 
 ## 🎯 Business Challenge
@@ -67,7 +66,7 @@ My goal in this project is to accelerate and enrich financial/market research, a
 
 # 1. Clone repo
 ```bash
-git clone https://github.com/your_username/ai_agents_for_finance_market_research.git
+git clone https://github.com/your_username/ai_agents_for_finance_market_research.git](https://github.com/SindhePandurangBITS/Multi-Agent-AI-Platform-for-Finance-and-Market-Research.git
 cd ai_agents_for_finance_market_research
 ```
 # 2. Create & activate venv
