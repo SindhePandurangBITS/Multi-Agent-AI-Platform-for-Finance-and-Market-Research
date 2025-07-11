@@ -6,7 +6,7 @@
 
 ## 🎯 Business Challenge
 
-My goal in this project is to accelerate and enrich financial/market research, analysis by orchestrating specialized AI agents, RAG, LLMs to streamline research, document retrieval, stock analysis, market analysis and expert review. So that high-quality investment reports can be produced faster, with deeper insights and reliable sourcing.
+My goal in this project is to accelerate and enrich financial/market research, analysis by orchestrating specialized AI agents, RAG, LLMs to streamline research, document retrieval, stock analysis, market analysis and expert review. So that high-quality investment/market reports can be produced faster, with deeper insights and reliable sourcing.
 
 ---
 
